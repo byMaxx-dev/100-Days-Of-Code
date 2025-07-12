@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(241, 232, 250);
+}
+.main-header {
+  text-align: center;
+}
+h1 {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 50px;
+  color: rgb(104, 29, 181);
+}
+img {
+  width: 300px;
+}
+main {
+  width: 750px;
+  color: #ffff;
+  font-family: "Noto Sans", sans-serif;
+  background-color: rgb(122, 38, 209);
+  border-radius: 10px;
+  margin: 40px auto 35px auto;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 27px;
+}
+ul {
+  list-style: none;
+}
+.important-item {
+  border-left: 5px solid rgb(237, 195, 90);
+  padding-left: 10px;
+}
+.important-info {
+  color: rgb(235, 215, 157);
+}
+span {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: rgb(104, 29, 181);
+  background-color: rgb(237, 215, 161);
+  border-radius: 4px;
+  padding: 2px;
+}
+footer {
+  font-family: "Noto Sans", sans-serif;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  background-color: rgb(240, 182, 41);
+  border-radius: 8px;
+  padding: 15px;
+  color: black;
+}
+a:hover {
+  background-color: rgb(237, 190, 76);
+}
+
+#academind-sign {
+  color: rgb(148, 146, 141);
+  padding: 20px;
+}
