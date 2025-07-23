@@ -10,9 +10,7 @@ let mainGoal = [courseName, priceCourse, goalCourse];
 alert(mainGoal[2]);
 
 function alertCommand(num) {
-  let result;
-  result = mainGoal[num];
-  return result;
+  return mainGoal[num];
 }
 
 mainGoal = alertCommand(1);
