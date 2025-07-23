@@ -1,6 +1,6 @@
 let courseName = "100 Days of Code";
 let priceCourse = 200;
-let goalCourse = "developer, rich, ford raptor";
+let goalCourse = ["developer", "rich", "ford raptor"];
 
 alert(courseName);
 alert(priceCourse);
