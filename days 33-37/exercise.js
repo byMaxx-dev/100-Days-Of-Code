@@ -11,3 +11,4 @@ function updateRemaningCharacters(event) {
 }
 
 productNameInputElement.addEventListener("input", updateRemaningCharacters);
+console.dir(document);
